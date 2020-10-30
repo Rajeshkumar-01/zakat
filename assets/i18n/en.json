@@ -1,0 +1,101 @@
+{
+  "common": {
+    "directoryI18": "ltr"
+  },
+  "onLoad": {
+    "pageTitle": "Zakat Fund E-Service",
+    "formTitle": "Donation Details",
+    "paymentTitle": "Confirm & Pay",
+    "completeTitle": "Payment Received"
+  },
+  "donationDetailInfoEdit": {
+    "sectionOneTitle": "Donation Details",
+    "zakatLabel": "Zakah",
+    "zakatTypeLabel": "Zakah Types",
+    "amountLabel": "Total Amount",
+    "receiptVoucherEmail": "Receive the receipt voucher by email?",
+    "emailLabel": "Email",
+    "optionYes": "Yes",
+    "optionNo": "No",
+    "smsNotification": "Receive SMS Notification ?",
+    "mobileLabel": "Mobile Number",
+    "usd": "US$",
+    "qr": "QR",
+    "totalAmountValue": " ( 7 QR Minimum )",
+    "emailPlaceholder": "Enter email address",
+    "mobilePlaceholder": "Enter mobile number",
+    "currencyExchnageNote": "Note:",
+    "zakatTypeLabelPlaceholder": "Select Zakah-Type..."
+  },
+  "donorDetailInfoEdit": {
+    "sectionTwoTitle":"Donor Contact Information (optional)",
+    "addressLabel": "Address",
+    "nameLabel": "Name",
+    "countryLabel": "Country",
+    "poBoxLabel": "P.O Box",
+    "donaorCountry": "Select Country...",
+    "telePhoneNumberLabel": "Telephone Number",
+    "namePlaceholder": "Enter Your Name",
+    "addressPlaceholder": "Enter Address Details",
+    "telePhoneNumberPlaceholder": "Enter Telephone Number",
+    "poBoxPlaceholder": "Enter PO Box "
+
+  },
+  "captchaComponent": {},
+  "donationDetail": {
+    "next": "Next",
+    "reset": "Reset"
+  },
+  "donationDetailConfirmPay": {
+    "preview": "Previous",
+    "submit": "Submit"
+  },
+  "donationDetailInfoView": {
+    "sectionOneTitle": "Donation Details",
+    "zakatLabel": "Zakah",
+    "zakatTypeLabel": "Zakah Types",
+    "amountLabel": "Total Amount",
+    "receiptVoucherEmail": "Receive the receipt voucher by email?",
+    "emailLabel": "Email",
+    "optionYes": "Yes",
+    "optionNo": "No",
+    "smsNotification": "Receive SMS Notification ?",
+    "mobileLabel": "Mobile Number",
+    "usd": "US$",
+    "qr": "QR"
+  },
+  "donorConatactInfoView": {
+    "sectionTwoTitle": "Donor Contact Information ",
+    "addressLabel": "Address",
+    "nameLabel": "Name",
+    "countryLabel": "Country",
+    "telePhoneNumberLabel": "Telephone Number",
+    "poBoxLabel": "P.O Box"
+  },
+  "paymentConfirmation": {
+    "goToButton": "Goto Home",
+    "printButton": "Print"
+  },
+  "donationReceiptView": {
+    "sectionOneTitle": "Donation Details",
+    "zakatLabel": "Zakah",
+    "zakatTypeLabel": "Zakah Types",
+    "amountLabel": "Total Amount",
+    "qr":"QR"
+  },
+  "receiptView": {
+    "receipt": "Receipt",
+    "donorName": "Donor Name",
+    "voucherNumber": "Voucher Number",
+    "date": "Date"
+  },
+  "errorComponent": {
+    "fieldRequired": "This field is required.",
+    "emailfromateError": "Enter your valid email address.",
+    "minLengthValidation": "Enter valid your mobile number.",
+    "maxLengthValidation": "Enter valid Your mobile number.",
+    "amountBelowValidation": "The total amount must be above or equal 7 QR.",
+    "amountAbouveValidation": "You are not allowed to donate more than 25000 QR.",
+    "captchaValidation": "Verify that you are not a ROBOT."
+  }
+}
